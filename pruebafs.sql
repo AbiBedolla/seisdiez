@@ -232,7 +232,7 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`id`, `name`, `email`, `password`, `remember_token`, `created_at`, `updated_at`) VALUES
 (21, 'abi', 'abi.bedolla@gmail.com', '$2y$10$hVBukNsfmQGb2WNfo5lyTOpcCS7hqbMbEFITlwy4zp3XA0FgGtZ6y', 'Z4LZ7pIpmc8FWr8xC8EgWTQDl13qM0ur2hmN5BLn94PpgQftgKqXtYkVHH7t', '2020-04-10 22:03:31', '2020-04-10 22:03:31'),
-(23, 'admin', 'admin@sesidiez.com', '$2y$10$3l0hHitkAy6hU8DRw1momODhf7QER.uJPBeEIRM7iPZj37k4tJjyS', 'KCXqZk4CsTAb87JhKeSiFlhxtrtS4ou0jKH4h7nO5d7ZhCt7EiAEmHI37NNj', '2020-04-11 04:31:37', '2020-04-11 04:31:37');
+(23, 'admin', 'admin@seisdiez.com', '$2y$10$3l0hHitkAy6hU8DRw1momODhf7QER.uJPBeEIRM7iPZj37k4tJjyS', 'KCXqZk4CsTAb87JhKeSiFlhxtrtS4ou0jKH4h7nO5d7ZhCt7EiAEmHI37NNj', '2020-04-11 04:31:37', '2020-04-11 04:31:37');
 
 --
 -- Índices para tablas volcadas
